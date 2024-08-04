@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EMo2qVGVkCUIXnYFHHbm4EEsKxF1/iXPZl+jb1qBNvY=",
+  "Source": "FirstMicroService.Gateway.YARP",
+  "BasePath": "_content/FirstMicroService.Gateway.YARP",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

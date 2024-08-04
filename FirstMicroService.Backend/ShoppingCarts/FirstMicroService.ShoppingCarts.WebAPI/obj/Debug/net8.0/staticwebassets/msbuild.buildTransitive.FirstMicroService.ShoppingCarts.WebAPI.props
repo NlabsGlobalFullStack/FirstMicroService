@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FirstMicroService.ShoppingCarts.WebAPI.props" />
+</Project>

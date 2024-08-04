@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FirstMicroService.Gateway.YARP.props" />
+</Project>

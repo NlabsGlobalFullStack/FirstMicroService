@@ -1,0 +1,17 @@
+@HostAddress = http://localhost:5213
+
+GET {{HostAddress}}/orders/getall
+Accept: application/json
+
+###
+
+
+GET {{HostAddress}}/products/getall
+Accept: application/json
+
+###
+
+GET {{HostAddress}}/shoppingcarts/getall
+Accept: application/json
+
+###

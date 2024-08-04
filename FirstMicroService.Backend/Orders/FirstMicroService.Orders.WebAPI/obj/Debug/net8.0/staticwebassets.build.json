@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TDz6jum5gzMtu6KlX/g7aaC8C6xBJBGBK21RMEW37P8=",
+  "Source": "FirstMicroService.Orders.WebAPI",
+  "BasePath": "_content/FirstMicroService.Orders.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
