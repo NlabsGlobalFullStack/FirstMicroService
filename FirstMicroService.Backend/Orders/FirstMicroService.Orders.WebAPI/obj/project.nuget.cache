@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4u3UhuNKsWQ=",
+  "dgSpecHash": "Y1RNLJFzPew=",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Test\\FirstMicroService\\Orders\\FirstMicroService.Orders.WebAPI\\FirstMicroService.Orders.WebAPI.csproj",
+  "projectFilePath": "D:\\Projects\\Test\\FirstMicroService\\FirstMicroService.Backend\\Orders\\FirstMicroService.Orders.WebAPI\\FirstMicroService.Orders.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\root\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\root\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

@@ -1226,11 +1226,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Test\\FirstMicroService\\Orders\\FirstMicroService.Orders.WebAPI\\FirstMicroService.Orders.WebAPI.csproj",
+      "projectUniqueName": "D:\\Projects\\Test\\FirstMicroService\\FirstMicroService.Backend\\Orders\\FirstMicroService.Orders.WebAPI\\FirstMicroService.Orders.WebAPI.csproj",
       "projectName": "FirstMicroService.Orders.WebAPI",
-      "projectPath": "D:\\Projects\\Test\\FirstMicroService\\Orders\\FirstMicroService.Orders.WebAPI\\FirstMicroService.Orders.WebAPI.csproj",
+      "projectPath": "D:\\Projects\\Test\\FirstMicroService\\FirstMicroService.Backend\\Orders\\FirstMicroService.Orders.WebAPI\\FirstMicroService.Orders.WebAPI.csproj",
       "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Test\\FirstMicroService\\Orders\\FirstMicroService.Orders.WebAPI\\obj\\",
+      "outputPath": "D:\\Projects\\Test\\FirstMicroService\\FirstMicroService.Backend\\Orders\\FirstMicroService.Orders.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",

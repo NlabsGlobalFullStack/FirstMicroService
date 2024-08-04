@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Test\\FirstMicroService\\ShoppingCarts\\FirstMicroService.ShoppingCarts.WebAPI\\FirstMicroService.ShoppingCarts.WebAPI.csproj": {}
+    "D:\\Projects\\Test\\FirstMicroService\\FirstMicroService.Backend\\ShoppingCarts\\FirstMicroService.ShoppingCarts.WebAPI\\FirstMicroService.ShoppingCarts.WebAPI.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Test\\FirstMicroService\\ShoppingCarts\\FirstMicroService.ShoppingCarts.WebAPI\\FirstMicroService.ShoppingCarts.WebAPI.csproj": {
+    "D:\\Projects\\Test\\FirstMicroService\\FirstMicroService.Backend\\ShoppingCarts\\FirstMicroService.ShoppingCarts.WebAPI\\FirstMicroService.ShoppingCarts.WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Test\\FirstMicroService\\ShoppingCarts\\FirstMicroService.ShoppingCarts.WebAPI\\FirstMicroService.ShoppingCarts.WebAPI.csproj",
+        "projectUniqueName": "D:\\Projects\\Test\\FirstMicroService\\FirstMicroService.Backend\\ShoppingCarts\\FirstMicroService.ShoppingCarts.WebAPI\\FirstMicroService.ShoppingCarts.WebAPI.csproj",
         "projectName": "FirstMicroService.ShoppingCarts.WebAPI",
-        "projectPath": "D:\\Projects\\Test\\FirstMicroService\\ShoppingCarts\\FirstMicroService.ShoppingCarts.WebAPI\\FirstMicroService.ShoppingCarts.WebAPI.csproj",
+        "projectPath": "D:\\Projects\\Test\\FirstMicroService\\FirstMicroService.Backend\\ShoppingCarts\\FirstMicroService.ShoppingCarts.WebAPI\\FirstMicroService.ShoppingCarts.WebAPI.csproj",
         "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Test\\FirstMicroService\\ShoppingCarts\\FirstMicroService.ShoppingCarts.WebAPI\\obj\\",
+        "outputPath": "D:\\Projects\\Test\\FirstMicroService\\FirstMicroService.Backend\\ShoppingCarts\\FirstMicroService.ShoppingCarts.WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",

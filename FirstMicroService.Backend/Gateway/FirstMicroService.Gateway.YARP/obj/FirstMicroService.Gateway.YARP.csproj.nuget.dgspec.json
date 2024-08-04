@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Test\\FirstMicroService\\Gateway\\FirstMicroService.Gateway.YARP\\FirstMicroService.Gateway.YARP.csproj": {}
+    "D:\\Projects\\Test\\FirstMicroService\\FirstMicroService.Backend\\Gateway\\FirstMicroService.Gateway.YARP\\FirstMicroService.Gateway.YARP.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Test\\FirstMicroService\\Gateway\\FirstMicroService.Gateway.YARP\\FirstMicroService.Gateway.YARP.csproj": {
+    "D:\\Projects\\Test\\FirstMicroService\\FirstMicroService.Backend\\Gateway\\FirstMicroService.Gateway.YARP\\FirstMicroService.Gateway.YARP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Test\\FirstMicroService\\Gateway\\FirstMicroService.Gateway.YARP\\FirstMicroService.Gateway.YARP.csproj",
+        "projectUniqueName": "D:\\Projects\\Test\\FirstMicroService\\FirstMicroService.Backend\\Gateway\\FirstMicroService.Gateway.YARP\\FirstMicroService.Gateway.YARP.csproj",
         "projectName": "FirstMicroService.Gateway.YARP",
-        "projectPath": "D:\\Projects\\Test\\FirstMicroService\\Gateway\\FirstMicroService.Gateway.YARP\\FirstMicroService.Gateway.YARP.csproj",
+        "projectPath": "D:\\Projects\\Test\\FirstMicroService\\FirstMicroService.Backend\\Gateway\\FirstMicroService.Gateway.YARP\\FirstMicroService.Gateway.YARP.csproj",
         "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Test\\FirstMicroService\\Gateway\\FirstMicroService.Gateway.YARP\\obj\\",
+        "outputPath": "D:\\Projects\\Test\\FirstMicroService\\FirstMicroService.Backend\\Gateway\\FirstMicroService.Gateway.YARP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",

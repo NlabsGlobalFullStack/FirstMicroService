@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o2t7C25l2H8=",
+  "dgSpecHash": "gt6yOFPnMVQ=",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Test\\FirstMicroService\\Gateway\\FirstMicroService.Gateway.YARP\\FirstMicroService.Gateway.YARP.csproj",
+  "projectFilePath": "D:\\Projects\\Test\\FirstMicroService\\FirstMicroService.Backend\\Gateway\\FirstMicroService.Gateway.YARP\\FirstMicroService.Gateway.YARP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\root\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\root\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.7\\microsoft.aspnetcore.authentication.jwtbearer.8.0.7.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CqKYChcLVcQ=",
+  "dgSpecHash": "c1W2bAYpCUM=",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Test\\FirstMicroService\\ShoppingCarts\\FirstMicroService.ShoppingCarts.WebAPI\\FirstMicroService.ShoppingCarts.WebAPI.csproj",
+  "projectFilePath": "D:\\Projects\\Test\\FirstMicroService\\FirstMicroService.Backend\\ShoppingCarts\\FirstMicroService.ShoppingCarts.WebAPI\\FirstMicroService.ShoppingCarts.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\root\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\root\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

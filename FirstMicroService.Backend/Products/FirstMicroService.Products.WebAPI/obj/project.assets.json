@@ -4570,11 +4570,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Test\\FirstMicroService\\Products\\FirstMicroService.Products.WebAPI\\FirstMicroService.Products.WebAPI.csproj",
+      "projectUniqueName": "D:\\Projects\\Test\\FirstMicroService\\FirstMicroService.Backend\\Products\\FirstMicroService.Products.WebAPI\\FirstMicroService.Products.WebAPI.csproj",
       "projectName": "FirstMicroService.Products.WebAPI",
-      "projectPath": "D:\\Projects\\Test\\FirstMicroService\\Products\\FirstMicroService.Products.WebAPI\\FirstMicroService.Products.WebAPI.csproj",
+      "projectPath": "D:\\Projects\\Test\\FirstMicroService\\FirstMicroService.Backend\\Products\\FirstMicroService.Products.WebAPI\\FirstMicroService.Products.WebAPI.csproj",
       "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Test\\FirstMicroService\\Products\\FirstMicroService.Products.WebAPI\\obj\\",
+      "outputPath": "D:\\Projects\\Test\\FirstMicroService\\FirstMicroService.Backend\\Products\\FirstMicroService.Products.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",
